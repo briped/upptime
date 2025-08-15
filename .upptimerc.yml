@@ -9,6 +9,8 @@ sites:
     url: https://owa.ip-support.dk
   - name: IP-Support Antispam Control Panel
     url: https://antispam.ip-support.dk
+  - name: Casa Anita
+    url: https://casaanita.dk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
