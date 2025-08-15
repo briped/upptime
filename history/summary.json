@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 795,
-    "timeWeek": 795,
-    "timeMonth": 795,
-    "timeYear": 795,
+    "time": 809,
+    "timeDay": 809,
+    "timeWeek": 809,
+    "timeMonth": 809,
+    "timeYear": 809,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1841,
-    "timeDay": 1841,
-    "timeWeek": 1841,
-    "timeMonth": 1841,
-    "timeYear": 1841,
+    "time": 1785,
+    "timeDay": 1785,
+    "timeWeek": 1785,
+    "timeMonth": 1785,
+    "timeYear": 1785,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1278,
-    "timeDay": 1278,
-    "timeWeek": 1278,
-    "timeMonth": 1278,
-    "timeYear": 1278,
+    "time": 1430,
+    "timeDay": 1430,
+    "timeWeek": 1430,
+    "timeMonth": 1430,
+    "timeYear": 1430,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Casa Anita",
+    "url": "https://casaanita.dk",
+    "icon": "https://icons.duckduckgo.com/ip3/casaanita.dk.ico",
+    "slug": "casa-anita",
+    "status": "down",
+    "uptime": "83.99%",
+    "uptimeDay": "83.99%",
+    "uptimeWeek": "83.99%",
+    "uptimeMonth": "83.99%",
+    "uptimeYear": "83.99%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   }
 ]
