@@ -22,19 +22,19 @@
     "url": "https://owa.ip-support.dk",
     "icon": "https://icons.duckduckgo.com/ip3/owa.ip-support.dk.ico",
     "slug": "ip-support-webmail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2009,
-    "timeDay": 1555,
-    "timeWeek": 1967,
-    "timeMonth": 2009,
-    "timeYear": 2009,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1970,
+    "timeDay": 1569,
+    "timeWeek": 1919,
+    "timeMonth": 1970,
+    "timeYear": 1970,
     "dailyMinutesDown": {
-      "2025-08-22": 0
+      "2025-08-22": 8
     }
   },
   {
