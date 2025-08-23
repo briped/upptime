@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 782,
-    "timeWeek": 1018,
-    "timeMonth": 976,
-    "timeYear": 976,
+    "time": 962,
+    "timeDay": 813,
+    "timeWeek": 959,
+    "timeMonth": 962,
+    "timeYear": 962,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/owa.ip-support.dk.ico",
     "slug": "ip-support-webmail",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1970,
-    "timeDay": 1569,
-    "timeWeek": 1919,
-    "timeMonth": 1970,
-    "timeYear": 1970,
-    "dailyMinutesDown": {
-      "2025-08-22": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1943,
+    "timeDay": 1613,
+    "timeWeek": 1837,
+    "timeMonth": 1943,
+    "timeYear": 1943,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IP-Support Antispam Control Panel",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1572,
-    "timeDay": 1433,
-    "timeWeek": 1620,
-    "timeMonth": 1572,
-    "timeYear": 1572,
+    "time": 1552,
+    "timeDay": 1360,
+    "timeWeek": 1514,
+    "timeMonth": 1552,
+    "timeYear": 1552,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 287,
-    "timeWeek": 418,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "time": 417,
+    "timeDay": 346,
+    "timeWeek": 401,
+    "timeMonth": 417,
+    "timeYear": 417,
     "dailyMinutesDown": {}
   }
 ]
