@@ -4,10 +4,10 @@
     "url": "https://ip-support.dk/",
     "icon": "https://icons.duckduckgo.com/ip3/ip-support.dk.ico",
     "slug": "ip-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1022,
@@ -15,16 +15,18 @@
     "timeWeek": 1187,
     "timeMonth": 1038,
     "timeYear": 1022,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-19": 1
+    }
   },
   {
     "name": "IP-Support Webmail",
     "url": "https://owa.ip-support.dk",
     "icon": "https://icons.duckduckgo.com/ip3/owa.ip-support.dk.ico",
     "slug": "ip-support-webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -34,6 +36,7 @@
     "timeMonth": 2197,
     "timeYear": 2163,
     "dailyMinutesDown": {
+      "2025-09-19": 0,
       "2025-09-04": 18
     }
   },
