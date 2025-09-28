@@ -24,7 +24,7 @@
     "url": "https://owa.ip-support.dk",
     "icon": "https://icons.duckduckgo.com/ip3/owa.ip-support.dk.ico",
     "slug": "ip-support-webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 2171,
     "timeYear": 2087,
     "dailyMinutesDown": {
+      "2025-09-28": 0,
       "2025-09-19": 17,
       "2025-09-04": 18
     }
