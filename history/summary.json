@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1014,
-    "timeDay": 974,
-    "timeWeek": 935,
-    "timeMonth": 1021,
+    "timeDay": 1014,
+    "timeWeek": 939,
+    "timeMonth": 1013,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-09-19": 17
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/owa.ip-support.dk.ico",
     "slug": "ip-support-webmail",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.95%",
     "time": 2082,
-    "timeDay": 2009,
-    "timeWeek": 1717,
-    "timeMonth": 2162,
+    "timeDay": 1965,
+    "timeWeek": 1787,
+    "timeMonth": 2139,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2025-09-28": 14,
       "2025-09-19": 17,
       "2025-09-04": 18
     }
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1538,
-    "timeDay": 1385,
-    "timeWeek": 1391,
-    "timeMonth": 1537,
-    "timeYear": 1538,
+    "time": 1543,
+    "timeDay": 1770,
+    "timeWeek": 1457,
+    "timeMonth": 1523,
+    "timeYear": 1543,
     "dailyMinutesDown": {}
   },
   {
@@ -70,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 721,
-    "timeWeek": 453,
-    "timeMonth": 421,
-    "timeYear": 422,
+    "time": 421,
+    "timeDay": 354,
+    "timeWeek": 411,
+    "timeMonth": 416,
+    "timeYear": 421,
     "dailyMinutesDown": {}
   }
 ]
