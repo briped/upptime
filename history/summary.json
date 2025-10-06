@@ -45,7 +45,7 @@
     "url": "https://antispam.ip-support.dk",
     "icon": "https://icons.duckduckgo.com/ip3/antispam.ip-support.dk.ico",
     "slug": "ip-support-antispam-control-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 1533,
     "timeMonth": 1536,
     "timeYear": 1542,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-06": 0
+    }
   },
   {
     "name": "Casa Anita",
