@@ -48,11 +48,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/antispam.ip-support.dk.ico",
     "slug": "ip-support-antispam-control-panel",
     "status": "up",
-    "uptime": "96.42%",
+    "uptime": "96.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.11%",
-    "uptimeYear": "96.42%",
+    "uptimeYear": "96.45%",
     "time": 1676,
     "timeDay": 1336,
     "timeWeek": 2269,
@@ -70,9 +70,9 @@
     "url": "http://casaanita.dk",
     "icon": "https://icons.duckduckgo.com/ip3/casaanita.dk.ico",
     "slug": "casa-anita",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -81,6 +81,8 @@
     "timeWeek": 445,
     "timeMonth": 451,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-21": 0
+    }
   }
 ]
